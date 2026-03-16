@@ -25,6 +25,8 @@ This analysis provides data-driven answers to the following management questions
 * Handling missing values, standardizing dates/times, and categorizing demographic data.
 * Structuring the dataset for accurate exploratory analysis.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salazarcristian1014/Restaurant-Cancelation-Project/blob/main/notebooks/01_data_cleaning_and_optimization.ipynb)
+
 ### Phase 2: Exploratory Data Analysis (EDA) 📊
 * Visualizing cancellation trends by day, time, and dining space.
 * Analyzing customer origin (locals vs. foreigners) and retention rates.
