@@ -32,6 +32,8 @@ This analysis provides data-driven answers to the following management questions
 * Analyzing customer origin (locals vs. foreigners) and retention rates.
 * Identifying the main factors that correlate with cancelled bookings.
 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salazarcristian1014/Restaurant-Cancelation-Project/blob/main/notebooks/Analysis_restaurant_bookings_data.ipynb)
+
 ### Phase 3: Automation Process ⚙️
 * Developing a Python script to detect cancelled reservations.
 * Automating the dispatch of personalized follow-up emails/surveys to understand the reason for cancellation.
