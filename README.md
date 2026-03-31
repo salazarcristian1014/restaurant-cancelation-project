@@ -11,12 +11,11 @@ Cancellations and no-shows are major pain points in the high-end hospitality ind
 Furthermore, it implements an automated follow-up system to engage with customers who cancel, gather feedback via surveys, and invite them back to recover potential lost revenue.
 
 ## 🎯 Key Business Questions Addressed
-This analysis provides data-driven answers to the following management questions:
-* What is the cancellation rate across different dining spaces?
-* Which days of the week experience the highest volume of cancellations?
-* What is the ratio of first-time visitors vs. returning guests?
-* Are we serving more local diners or international tourists?
-* What are our peak demand hours and days?
+This analysis provides data-driven insights to optimize restaurant operations and revenue:
+* Space-Specific Benchmarking: What is the cancellation rate for each dining area?
+* Financial Impact: What is the revenue growth if the cancellation rate is optimized by 5%?
+* Root Cause Analysis: What are the primary reasons behind customer cancellations?
+* No-Show Dynamics: Why do reservations that haven't been cancelled fail to arrive?
 
 ## 🚀 Project Phases
 
