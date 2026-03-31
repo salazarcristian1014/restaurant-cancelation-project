@@ -38,8 +38,11 @@ This analysis provides data-driven insights to optimize restaurant operations an
 * Automating the dispatch of personalized follow-up emails/surveys to understand the reason for cancellation.
 * Creating an automated re-engagement loop to offer a new booking opportunity.
 
+3.1
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salazarcristian1014/restaurant-cancelation-project/blob/main/Limpieza_Datos_Automatizacion_Reservas.ipynb)
 
+3.2 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salazarcristian1014/restaurant-cancelation-project/blob/main/Automatizacion_Reservas_Canceladas.ipynb)
 ### Phase 4: Executive Presentation & Strategic Insights 📈
 * Translating raw data and code outputs into a strategic dashboard.
 * Providing actionable recommendations for restaurant management to mitigate cancellations and optimize operational cash flow.
