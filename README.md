@@ -28,9 +28,10 @@ This analysis provides data-driven answers to the following management questions
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salazarcristian1014/Restaurant-Cancelation-Project/blob/main/notebooks/01_data_cleaning_and_optimization.ipynb)
 
 ### Phase 2: Exploratory Data Analysis (EDA) 📊
-* Visualizing cancellation trends by day, time, and dining space.
-* Analyzing customer origin (locals vs. foreigners) and retention rates.
-* Identifying the main factors that correlate with cancelled bookings.
+* Phase 2: Exploratory Data Analysis (EDA) 📊
+Cancellation Rate Analysis: Identification of global and branch-specific cancellation metrics.
+* Cash Flow Projections: Modeling revenue recovery scenarios through rate optimization.
+* Behavioral Trends: Visualizing factors (timing, customer origin) that correlate with cancellations.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salazarcristian1014/restaurant-cancelation-project/blob/main/Analysis_restaurant_bookings_data.ipynb)
 
