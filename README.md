@@ -43,9 +43,6 @@ This analysis provides data-driven insights to optimize restaurant operations an
 
 3.2 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salazarcristian1014/restaurant-cancelation-project/blob/main/Automatizacion_Reservas_Canceladas.ipynb)
-### Phase 4: Executive Presentation & Strategic Insights 📈
-* Translating raw data and code outputs into a strategic dashboard.
-* Providing actionable recommendations for restaurant management to mitigate cancellations and optimize operational cash flow.
 
 ---
 *Note: The datasets used in this repository have been fully anonymized to protect customer privacy and comply with data protection regulations.*
